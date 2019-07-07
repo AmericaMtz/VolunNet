@@ -2,3 +2,8 @@ agm-map {
     width: 100%;
     height: 300px;
   }
+  #map{
+    background-color: crimson;
+    width: 100%;
+    height: 500px;
+  }
